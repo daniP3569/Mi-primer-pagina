@@ -1,0 +1,27 @@
+body{
+    background-color: #fefae0;
+    font-family: 'Playpen Sans', cursive;
+}
+header{
+ 
+
+}
+h1{
+  text-align: center;
+  font-family: 'Playpen Sans', cursive;
+}
+h2{
+  font-family: 'Playpen Sans', cursive;
+  text-align: center;
+}
+
+p{ 
+  color: #000;
+   font-family: 'Playpen Sans', cursive;
+    font-size: larger;
+text-align: center;
+}
+.titulo1{color: #111111;}
+#listaDesordenada{color: rgb(7, 7, 7);}
+img{width: fit-content;
+margin: 50px;}
